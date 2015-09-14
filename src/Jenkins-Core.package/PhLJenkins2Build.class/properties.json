@@ -1,0 +1,14 @@
+{
+	"category" : "Jenkins-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhLJenkins2Build",
+	"pools" : [
+		 ],
+	"super" : "PhLJenkins2WithArtifactsEntity",
+	"type" : "normal" }
