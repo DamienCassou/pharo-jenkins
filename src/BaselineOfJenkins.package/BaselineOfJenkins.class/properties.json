@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfJenkins",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfJenkins",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
