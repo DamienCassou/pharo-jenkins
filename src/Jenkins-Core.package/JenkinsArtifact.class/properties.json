@@ -1,0 +1,14 @@
+{
+	"category" : "Jenkins-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "JenkinsArtifact",
+	"pools" : [
+		 ],
+	"super" : "JenkinsObject",
+	"type" : "normal" }

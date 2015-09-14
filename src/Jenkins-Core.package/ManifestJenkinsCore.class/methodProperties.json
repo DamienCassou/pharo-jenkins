@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"ruleAbstractClassRuleV1FalsePositive" : "DamienCassou 9/14/2015 15:06",
+		"ruleClassNotReferencedRuleV1FalsePositive" : "DamienCassou 9/14/2015 15:06",
+		"ruleImplementedNotSentRuleV1FalsePositive" : "DamienCassou 9/14/2015 15:10" },
+	"instance" : {
+		 } }

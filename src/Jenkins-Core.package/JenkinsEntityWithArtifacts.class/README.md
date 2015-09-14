@@ -1,0 +1,1 @@
+I'm an abstract Jenkins entity that contains artifacts

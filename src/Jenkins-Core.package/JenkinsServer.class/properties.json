@@ -1,0 +1,15 @@
+{
+	"category" : "Jenkins-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 9/14/2015 14:57",
+	"instvars" : [
+		"url",
+		"name" ],
+	"name" : "JenkinsServer",
+	"pools" : [
+		 ],
+	"super" : "JenkinsEntity",
+	"type" : "normal" }

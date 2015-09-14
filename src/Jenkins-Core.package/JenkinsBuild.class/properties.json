@@ -1,0 +1,14 @@
+{
+	"category" : "Jenkins-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 9/14/2015 15:00",
+	"instvars" : [
+		 ],
+	"name" : "JenkinsBuild",
+	"pools" : [
+		 ],
+	"super" : "JenkinsEntityWithArtifacts",
+	"type" : "normal" }

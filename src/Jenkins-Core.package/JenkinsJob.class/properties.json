@@ -1,0 +1,14 @@
+{
+	"category" : "Jenkins-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 9/14/2015 14:58",
+	"instvars" : [
+		 ],
+	"name" : "JenkinsJob",
+	"pools" : [
+		 ],
+	"super" : "JenkinsEntity",
+	"type" : "normal" }

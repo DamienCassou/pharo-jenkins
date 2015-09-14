@@ -1,0 +1,1 @@
+I'm an abstract Jenkins object. I have children that can be fetched with a JSON query.
