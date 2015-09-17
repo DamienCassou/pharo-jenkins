@@ -1,4 +1,4 @@
-download
+protected
 newHTTPClientForUrl: url
 	^ ZnClient new
 		signalProgress: true;

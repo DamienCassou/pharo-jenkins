@@ -1,14 +1,14 @@
 {
 	"category" : "Jenkins-Core",
 	"classinstvars" : [
-		"querier" ],
+		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "DamienCassou 9/14/2015 15:03",
+	"commentStamp" : "DamienCassou 9/17/2015 06:34",
 	"instvars" : [
 		 ],
-	"name" : "JenkinsEntity",
+	"name" : "JenkinsQuerier",
 	"pools" : [
 		 ],
-	"super" : "JenkinsObject",
+	"super" : "Object",
 	"type" : "normal" }

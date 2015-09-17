@@ -1,0 +1,3 @@
+querier
+resetQuerier
+	querier := nil

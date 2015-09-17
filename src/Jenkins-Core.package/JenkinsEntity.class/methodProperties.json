@@ -3,11 +3,12 @@
 		"jsonFields" : "DamienCassou 3/2/2014 13:10",
 		"jsonFieldsQuery" : "DamienCassou 3/7/2014 16:02",
 		"jsonName" : "DamienCassou 3/2/2014 13:09",
-		"newWithProperties:" : "DamienCassou 3/2/2014 15:15" },
+		"newWithProperties:" : "DamienCassou 3/2/2014 15:15",
+		"querier" : "DamienCassou 9/17/2015 06:57",
+		"querier:" : "DamienCassou 9/17/2015 06:56",
+		"resetQuerier" : "DamienCassou 9/17/2015 06:56" },
 	"instance" : {
 		"children" : "DamienCassou 9/14/2015 15:07",
-		"downloadToPositionableStream:mimeType:" : "DamienCassou 9/14/2015 13:37",
-		"jsonQuery:" : "DamienCassou 9/14/2015 13:32",
-		"newHTTPClientForUrl:" : "DamienCassou 9/14/2015 13:36",
-		"query:" : "DamienCassou 3/7/2014 16:02",
+		"querier" : "DamienCassou 9/17/2015 06:55",
+		"query:" : "DamienCassou 9/17/2015 06:54",
 		"url" : "DamienCassou 3/2/2014 15:21" } }
