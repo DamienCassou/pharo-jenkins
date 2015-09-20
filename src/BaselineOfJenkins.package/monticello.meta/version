@@ -1,1 +1,2 @@
-(name 'BaselineOfJenkins-DamienCassou.1' message 'Initial baseline' id '2b20d11a-e74a-4067-919e-060a591b3bf5' date '14 September 2015' time '2:13:54.239885 pm' author 'DamienCassou' ancestors () stepChildren ())
+(name 'BaselineOfJenkins-DamienCassou.2' message 'This tool package depends on both GTSpotter and GTInspector.' id '52226a56-2cae-4c9e-9822-d49418963e98' date '20 September 2015' time '10:37:14.959145 am' author 'DamienCassou' ancestors ((name 'BaselineOfJenkins-DamienCassou.1' message 'Initial baseline
+' id 'd1672b2f-1422-5007-8929-ffec7ab4f399' date '14 September 2015' time '2:13:54 pm' author 'DamienCassou' ancestors () stepChildren ())) stepChildren ())
