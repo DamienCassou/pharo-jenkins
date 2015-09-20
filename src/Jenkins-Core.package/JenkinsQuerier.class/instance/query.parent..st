@@ -2,7 +2,7 @@ public
 query: jenkinsType parent: aJenkinsObject
 	| query |
 	query := jenkinsType jsonName , '[' , jenkinsType jsonFieldsQuery , ']'.
-	^ ((self jsonQuery: query) at: jenkinsType jsonName)
+	^ ((self jsonQuery: query baseUrl: aJenkinsObject url) at: jenkinsType jsonName)
 		ifNil: [ #() ]
 		ifNotNil: [ :jsonObjects | 
 			jsonObjects

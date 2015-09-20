@@ -1,6 +1,6 @@
 protected
-jsonQuery: query
+jsonQuery: query baseUrl: url
 	| queryUrl |
-	queryUrl := self url / 'api' / 'json' ? ('tree' -> query).
+	queryUrl := url / 'api' / 'json' ? ('tree' -> query).
 	^ Json
 		readFrom: (self downloadToPositionableStream: queryUrl mimeType: ZnMimeType applicationJson)
