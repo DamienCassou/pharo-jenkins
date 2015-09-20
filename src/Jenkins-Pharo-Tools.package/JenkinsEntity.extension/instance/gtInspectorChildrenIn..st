@@ -1,5 +1,5 @@
 *jenkins-pharo-tools
-gtInspectorTreeRepresentationIn: composite
+gtInspectorChildrenIn: composite
 	<gtInspectorPresentationOrder: 30>
 	composite list
 		title: 'Children';
