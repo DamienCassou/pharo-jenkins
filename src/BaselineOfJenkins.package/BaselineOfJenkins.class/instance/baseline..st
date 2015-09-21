@@ -4,8 +4,8 @@ baseline: spec
 	spec
 		for: #common
 		do:
-			[ self json: spec"; gtSpotter: spec; gtInspector: spec".
+			[ self json: spec; gtSpotter: spec; gtInspector: spec.
 			spec
 				package: 'Jenkins-Core' with: [ spec requires: #('JSON') ];
-				package: 'Jenkins-Pharo-Tools' with: [ spec requires: #('Jenkins-Core' "'GTSpotter' 'GTInspector'") ];
+				package: 'Jenkins-Pharo-Tools' with: [ spec requires: #('Jenkins-Core' 'GTSpotter' 'GTInspectorCore') ];
 				group: 'default' with: #('Jenkins-Core' 'Jenkins-Pharo-Tools') ]

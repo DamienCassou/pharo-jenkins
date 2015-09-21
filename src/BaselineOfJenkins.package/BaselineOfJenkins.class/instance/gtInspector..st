@@ -1,7 +1,7 @@
 dependencies
 gtInspector: spec
 	spec
-		configuration: 'GTInspector'
+		configuration: 'GTInspectorCore'
 		with:
 			[ spec
 				version: #stable;
