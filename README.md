@@ -17,7 +17,7 @@ Metacello new
 
 pillar := JenkinsServer pharoContributions jobs detect: [ :job | job name = 'Pillar' ].
 
-zipArtifact := pillar lastSuccessfulBuild runs anyOne artifacts detect: [ :artifact | artifact name = 'Pillar.zip' ]
+zipArtifact := pillar lastSuccessfulBuild runs anyOne artifacts detect: [ :artifact | artifact name = 'Pillar.zip' ].
 
 ZnClient new url: zipArtifact url; downloadTo: 'Pillar.zip'
 ```
