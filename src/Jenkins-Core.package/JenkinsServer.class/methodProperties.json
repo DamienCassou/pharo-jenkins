@@ -1,9 +1,14 @@
 {
 	"class" : {
-		"name:url:" : "DamienCassou 3/7/2014 15:33" },
+		"name:url:" : "DamienCassou 3/7/2014 15:33",
+		"name:url:username:token:" : "CyrilFerlicot 1/16/2016 17:55" },
 	"instance" : {
 		"children" : "DamienCassou 9/14/2015 15:08",
 		"jobs" : "DamienCassou 9/14/2015 14:55",
 		"name" : "DamienCassou 3/2/2014 20:06",
 		"setName:url:" : "DamienCassou 3/2/2014 15:07",
-		"url" : "DamienCassou 3/2/2014 15:05" } }
+		"token" : "CyrilFerlicot 1/16/2016 16:06",
+		"token:" : "CyrilFerlicot 1/18/2016 22:00",
+		"url" : "CyrilFerlicot 1/16/2016 16:06",
+		"username" : "CyrilFerlicot 1/16/2016 16:06",
+		"username:" : "CyrilFerlicot 1/18/2016 22:00" } }

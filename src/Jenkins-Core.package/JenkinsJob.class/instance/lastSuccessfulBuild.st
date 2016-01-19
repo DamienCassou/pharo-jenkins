@@ -1,8 +1,12 @@
 accessing
 lastSuccessfulBuild
-	^ JenkinsBuild
+	| build |
+	build := JenkinsBuild
 		newWithProperties:
 			(Dictionary new
 				at: 'number' put: self lastSuccessfulBuildNumber;
 				at: 'url' put: (self url / 'lastSuccessfulBuild') printString;
-				yourself)
+				yourself).
+	^ build
+		parent: self;
+		yourself
